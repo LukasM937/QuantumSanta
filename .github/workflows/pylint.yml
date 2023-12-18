@@ -19,6 +19,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install pylint
         pip install qiskit
+        pip install qiskit_ibm_provider
     - name: Analysing the code with pylint
       run: |
         pylint --disable R,C,W,no-error,design $(git ls-files '*.py')
