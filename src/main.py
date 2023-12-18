@@ -67,7 +67,7 @@ if __name__ == '__main__':
     
     config_data = json.load(config_file)
 
-    if config_data['Provider_Key'] != '':
+    if config_data['Provider_Key'] != '' and config_data['Provider_Key'] != '<Provider_Key>':
         provider_token = config_data['Provider_Key']
     else:
         if args.provider_key is not None:
