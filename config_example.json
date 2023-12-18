@@ -1,0 +1,30 @@
+{
+    "Provider_Key":"<Provider_Key>",
+    "Participants":[
+        {
+            "name":"Alice",
+            "contact":"",
+            "note":""
+        },{
+            "name":"Bob",
+            "contact":"",
+            "note":""
+        },{
+            "name":"Charly",
+            "contact":"",
+            "note":""
+        },{
+            "name":"Darleen",
+            "contact":"",
+            "note":""
+        },{
+            "name":"Emma",
+            "contact":"",
+            "note":""
+        },{
+            "name":"Frank",
+            "contact":"",
+            "note":""
+        }
+    ]
+}
