@@ -15,8 +15,9 @@ Based on the IBM-Qiskit Framwork and use the noise of their quantum system to ob
 - Execute the script.
 
 ## Roadmap:
-- Add CLI commands
-- Remove hard coded list
+- Add Explanation to README
+- ~~Add CLI commands~~
+- ~~Remove hard coded list~~
 - Let the elfs participate:
   - Host a microserver and obtain links
-  - Send mails automaticly
+  - Send mails automaticly /SMS accordingly
